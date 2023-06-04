@@ -1,3 +1,4 @@
+# Versi Lambat
 import time
 
 
