@@ -1,3 +1,4 @@
+# Versi Cepat
 import time
 
 def bubble_sort(arr):
